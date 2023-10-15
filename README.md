@@ -3,7 +3,7 @@
 
 portfolio:- https://reema982.github.io/codsoft_project/portfolio
 
-to-do:- https://reema982.github.io/codsoft_project/To_do
+to-do:- https://reema982.github.io/codsoft_project/to_do
 
 
 calculator:- https://reema982.github.io/codsoft_project/calculator
